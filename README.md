@@ -1,8 +1,8 @@
 
 
-# Hello
+# Introduction 
 
-Hi my name is Cosmos. I have been coding for 6 months here is some projects that I am working on. 
+Hello! My name is Cosmos and I have been coding for past year now. I make discord bots and websites!
 
 ## Pegasus-Project
 
