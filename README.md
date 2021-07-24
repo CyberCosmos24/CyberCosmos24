@@ -11,5 +11,5 @@ Personal website.
 ## JavaClass
 Java school class flies
 
-[![Cosmos's GitHub stats](https://github-readme-stats.vercel.app/api?username=CosmosPegasus)](https://github.com/CosmosPegasus/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
