@@ -1,5 +1,5 @@
 
-[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/809837115500134410?bg=0d1117)](https://discord.com/users/809837115500134410)
+
 # Introduction 
 
 Hello! My name is Cosmos and I have been coding for past year now. I am a Discord bot and website developer. The most common languages I use are Python, Java, HTML, CSS, JS.
