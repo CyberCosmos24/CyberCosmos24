@@ -5,6 +5,7 @@
 Hello! My name is Cosmos and I have been coding for past year now. I am a cybersecurity enthusiast and computer science lover! The most common languages I use are Python, Java, HTML, CSS, JS.
 
 ### Add my Discord
+[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/809837115500134410?bg=0d1117)](https://discord.com/users/809837115500134410)
 
 
 
