@@ -4,7 +4,7 @@
 
 Hello! My name is Cosmos and I have been coding for past year now. I am a cybersecurity enthusiast and computer science lover! The most common languages I use are Python, Java, HTML, CSS, JS.
 
-#Add my Discord
+### Add my Discord
 
 
 
