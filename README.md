@@ -2,7 +2,11 @@
 
 # Introduction 
 
-Hello! My name is Cosmos and I have been coding for past year now. I am a Discord bot and website developer. The most common languages I use are Python, Java, HTML, CSS, JS.
+Hello! My name is Cosmos and I have been coding for past year now. I am a cybersecurity enthusiast and computer science lover! The most common languages I use are Python, Java, HTML, CSS, JS.
+
+#Add my Discord
+
+
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Cosmos2424&layout=compact)](https://github.com/CosmosPegasus/github-readme-stats)
