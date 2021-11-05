@@ -9,7 +9,7 @@ Hello! My name is Cosmos and I have been coding for past year now. I am a cybers
 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Cosmos2424&layout=compact)](https://github.com/CosmosPegasus/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CyberCosmos24&layout=compact)](https://github.com/CyberCosmos24/github-readme-stats)
 
 ### Languages and Tools:
 
