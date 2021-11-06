@@ -2,7 +2,7 @@
 
 # Introduction 
 
-Hello! My name is Cosmos and I have been coding for past year now. I am a cybersecurity enthusiast and computer science lover! The most common languages I use are Python, Java, HTML, CSS, JS.
+Hello! My name is Cosmos and I have been coding for past year now. I am a cybersecurity enthusiast and computer science lover! The most common languages I use are Python, Java, HTML, CSS, JS. I have my PC Pro and Network Pro certifications!
 
 
 
