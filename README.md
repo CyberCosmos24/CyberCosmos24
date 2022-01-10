@@ -6,7 +6,7 @@ Hello! My name is Cosmos and I have been coding for past year now. I am a cybers
 
 # Socials 
 Discord: Cosmos#2424
-
+### Languages and Tools:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CyberCosmos24&layout=compact)](https://github.com/CyberCosmos24/github-readme-stats)
 ### Languages and Tools:
 
