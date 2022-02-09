@@ -2,7 +2,7 @@
 
 # Introduction 
 
-Hello! My name is Cosmos and I have been coding for past year now. I am a cybersecurity enthusiast and computer science lover! The most common languages I use are Python, Java, HTML, CSS, JS. I am currently working on getting my PC Pro and Security Pro certifications! My goal is to become a `Network Systems Administrator`
+Hello! My name is Cosmos and I have been coding for past year now. I am a cybersecurity enthusiast and computer science lover! The most common languages I use are Python, Java, HTML, CSS, JS. I am currently working on getting my PC Pro and Security Pro certifications! My goal is to become a `Cyber Security Analyst`
 # Socials 
 Discord: Cosmos#2424
 ### Languages and Tools:
