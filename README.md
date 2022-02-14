@@ -17,4 +17,4 @@ Discord: Cosmos#2424
 
 ### Stats 
 
-![Cosmos GitHub stats](https://github-readme-stats.vercel.app/api?username=CyberCosmos24&show_icons=true&theme=dark)
+[![Cosmos GitHub stats](https://github-readme-stats.vercel.app/api?username=CyberCosmos24&show_icons=true&theme=dark)
