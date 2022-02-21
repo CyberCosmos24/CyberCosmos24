@@ -9,4 +9,4 @@ Discord: Cosmos#2424
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CyberCosmos24&layout=compact)](https://github.com/CyberCosmos24/github-readme-stats)
 
 
-![Cosmos GitHub stats](https://github-readme-stats.vercel.app/api?username=CyberCosmos24&show_icons=true&theme=dark)
+![Cosmos GitHub stats](https://github-readme-stats.vercel.app/api?username=CyberCosmos24&show_icons=true&theme=default)
