@@ -8,6 +8,10 @@ Hello! My name is Cosmos and I have been coding for past year now. I am a cybers
 - Email: email@cosmosportfolio.com
 ### Languages and Tools:
   <img alt="Python" src="https://img.shields.io/badge/Python-282a35?style=for-the-badge&logo=pythonlogoColor=282a35&labelColor=0F58FF" />
+  <img alt="AWS" src="https://img.shields.io/badge/AWS-282a35?style=for-the-badge&logo=awslogoColor=282a35&labelColor=0F58FF" />
+  <img alt="Python" src="https://img.shields.io/badge/Python-282a35?style=for-the-badge&logo=pythonlogoColor=282a35&labelColor=0F58FF" />
+  <img alt="Python" src="https://img.shields.io/badge/Python-282a35?style=for-the-badge&logo=pythonlogoColor=282a35&labelColor=0F58FF" />
+  <img alt="Python" src="https://img.shields.io/badge/Python-282a35?style=for-the-badge&logo=pythonlogoColor=282a35&labelColor=0F58FF" />
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CyberCosmos24&layout=compact)](https://github.com/CyberCosmos24/github-readme-stats)
 
