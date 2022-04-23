@@ -14,7 +14,7 @@ Hello! My name is Cosmos and I have been coding for past year now. I am a cybers
   <img alt="Bash" src="https://img.shields.io/badge/Bash-282a35?style=for-the-badge&logo=bashnlogoColor=282a35&labelColor=0F58FF" />
   <img alt="Cloudflare" src="https://img.shields.io/badge/Cloudflare-282a35?style=for-the-badge&logo=CloudflarelogoColor=282a35&labelColor=0F58FF" />
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CyberCosmos24&layout=compact)](https://github.com/CyberCosmos24/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CyberCosmos24&layout=compact&theme=github_dark)](https://github.com/CyberCosmos24/github-readme-stats)
 
 
-![Cosmos GitHub stats](https://github-readme-stats.vercel.app/api?username=CyberCosmos24&show_icons=true&theme=default)
+![Cosmos GitHub stats](https://github-readme-stats.vercel.app/api?username=CyberCosmos24&show_icons=true&theme=github_dark)
