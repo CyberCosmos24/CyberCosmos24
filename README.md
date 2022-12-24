@@ -2,7 +2,7 @@
 
 # Introduction 
 
-Hello! My name is Cosmos and I have been coding for past year now. I am a cybersecurity enthusiast that works with a variety of programming languages.  I am currently working on getting my PC Pro and Security Pro certifications! My goal is to become a `Cyber Secuirty Analyst`.
+I am a 18 year old cybersecurity enthusiast who enjoys learning new techolognies. 
 # Socials 
 - Discord: Cosmos#2424
 - Email: ajay@cosmosportfolio.com
