@@ -1,10 +1,10 @@
 
 
 # Introduction 
-I am a 18 year old cybersecurity enthusiast who enjoys learning new techolognies. 
+I am a 20 year old cybersecurity studen looking for new opportunities. 
 # Socials 
-- Discord: Cosmos#2424
-- Email: email@cosmosportfolio.com
+- Discord: CyberCosmos
+- Email: ajay@cosmosportfolio.com
 ### Languages and Tools:
   <img align="center"/>
   <img alt="Python" src="https://img.shields.io/badge/Python-282a35?style=for-the-badge&logo=pythonlogoColor=282a35&labelColor=0F58FF" /> 
